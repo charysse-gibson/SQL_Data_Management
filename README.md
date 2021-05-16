@@ -1,1 +1,2 @@
-# SQL_Data_Management
+# SQL Data Management
+Basic syntax for data management in SQL.
